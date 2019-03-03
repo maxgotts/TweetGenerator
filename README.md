@@ -1,2 +1,2 @@
 # TweetGenerator
-Generates Trump's sweets
+Generates Trump's tweets
